@@ -19,5 +19,5 @@ This program is  part of the assigment for the course “Development Tools”, o
 ----------------
 
    Currently, there is no installer, just grab the source code  by ether way then Run.
-  * Download for GIT: [](https://github.com/Roumia/mswl-dt.git)
+  * Download for GIT: [https://github.com/Roumia/Gnome_application.git](https://github.com/Roumia/Gnome_application.git)
   * Download as zip : [](https://github.com/Roumia/mswl-dt/archive/master.zip)
