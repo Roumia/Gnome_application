@@ -14,6 +14,12 @@ This program is  part of the assigment for the course “Development Tools”, o
 
 ###How to run :
 ----------------
+to run buttom
+
+     $ gcc -g -Wall  `pkg-config --cflags --libs gtk+-3.0 ` button.c -o button `pkg-config --libs gtk+-3.0 `
+     
+to run image
+
      $ gcc -g -Wall  `pkg-config --cflags --libs gtk+-3.0 ` button.c -o button `pkg-config --libs gtk+-3.0 `
 
 ###Installation:
