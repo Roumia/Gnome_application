@@ -5,17 +5,18 @@ Gnome_application one of the  mswl Development Tools assignment for MSWL mater i
 
   
 
-  Introduction :
+###Introduction :
 ----------------
     
 This program is  part of the assigment for the course “Development Tools”, of the Master on libre software of URJC 2013/2014 .
+ GTK + 3
 
 
-  Requirements
+###How to run :
 ----------------
-   * Installing   
+$ gcc -g -Wall  `pkg-config --cflags --libs gtk+-3.0 ` button.c -o button `pkg-config --libs gtk+-3.0 `
 
- Installation:
+###Installation:
 ----------------
 
    Currently, there is no installer, just grab the source code  by ether way then Run.
