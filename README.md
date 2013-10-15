@@ -9,11 +9,11 @@ Gnome_application  part of the assigment for the course “Development Tools”,
 ----------------
 to run buttom
 
-     $ gcc -g -Wall  `pkg-config --cflags --libs gtk+-3.0 ` button.c -o button `pkg-config --libs gtk+-3.0 `
+     $ gcc -g -Wall  `pkg-config --cflags --libs gtk+-3.0 ` button.c -o buttons `pkg-config --libs gtk+-3.0 `
      
 to run image
 
-     $ gcc -g -Wall  `pkg-config --cflags --libs gtk+-3.0 ` button.c -o button `pkg-config --libs gtk+-3.0 `
+     $ gcc -g -Wall  `pkg-config --cflags --libs gtk+-3.0 ` image.c -o images `pkg-config --libs gtk+-3.0 `
 
 ###Installation:
 ----------------
