@@ -1,15 +1,8 @@
 Gnome_application
 =================
 
-Gnome_application one of the  mswl Development Tools assignment for MSWL mater in libresoft in urjc .
-
+Gnome_application  part of the assigment for the course “Development Tools”, of the Master on libre software of URJC 2013/2014 .
   
-
-###Introduction :
-----------------
-    
-This program is  part of the assigment for the course “Development Tools”, of the Master on libre software of URJC 2013/2014 .
- GTK + 3
 
 
 ###How to run :
